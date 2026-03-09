@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Harry Potter</title>
+</head>
 
+<header>
+<h1>Harry Potter</h1>
+</header>
+
+<section>
+<article>
+<h2>The boy who lived.</h2>
+<p>Harry potter is a young wizard who discovers his magical destiny.</p>
+</article>
+</section>
+
+<footer>
+<p>Hogwarts</p>
+</footer>
+
+</body>
+</html>
